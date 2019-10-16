@@ -1,5 +1,1 @@
 welcome to git
-
-welcome to devops
-
-devops is a combinatioces of set of toolls, practices  which automates the process between dev and ops
