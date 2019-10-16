@@ -1,1 +1,2 @@
 devops is fully automated.
+dev and ops team must work as a single team
