@@ -1,3 +1,7 @@
 Family
+<<<<<<< HEAD
 Father
 
+=======
+Mother
+>>>>>>> 7a8e4a02f619fc1b48473888a532563fa5264cbf
